@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba43f24e-53d8-496a-8fef-3e61b6b5e021" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\maven_repository" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1efAeDGeC9PSQBSJH63sOa3IL8h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bookmall" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyCode\bookmall-portal\img" />
+      <recent name="D:\MyCode\bookmall-portal\items" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyCode\bookmall-portal" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba43f24e-53d8-496a-8fef-3e61b6b5e021" name="默认更改列表" comment="" />
+      <created>1594702366945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594702366945</updated>
+      <workItem from="1594702370574" duration="3574000" />
+      <workItem from="1594797829268" duration="9861000" />
+      <workItem from="1594980344684" duration="28000" />
+      <workItem from="1595316386516" duration="1983000" />
+      <workItem from="1595334709623" duration="20000" />
+      <workItem from="1595571929573" duration="1263000" />
+      <workItem from="1595573546826" duration="623000" />
+      <workItem from="1595576071853" duration="1863000" />
+      <workItem from="1595579370657" duration="877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1595580431954">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595580431954" />
+    <state x="658" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1595579370249">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="658" y="364" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1595579370249" />
+  </component>
+</project>
